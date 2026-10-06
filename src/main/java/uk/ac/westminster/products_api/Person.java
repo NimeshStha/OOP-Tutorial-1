@@ -2,7 +2,6 @@ package uk.ac.westminster.products_api;
 
 /**
  * Week 1 starter class.
- *
  * Already provided:
  *   - a private "name" field
  *   - a no-argument constructor (required by Jackson later in the module)
